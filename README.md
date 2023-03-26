@@ -1,4 +1,4 @@
-EXPLORATORY DATA ANALYSIS -CENSUS
+EXPLORATORY DATA ANALYSIS -CENSUS.
 IN THIS PROJECT ON THE BASIS OF DATA SET FROM KAGGLE BELOW QUERIES ARE RESOLVED BY USING PYTHON & LIBRARIES COMMANDS: dala analysis, data clean up, data visualization tasks are completed. 
 COMMANDS USED:-
 import pandas as pd -- To import Pandas library
