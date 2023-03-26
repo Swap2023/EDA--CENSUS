@@ -1,4 +1,16 @@
-# EDA--CENSUS
+EXPLORATORY DATA ANALYSIS -CENSUS
+IN THIS PROJECT ON THE BASIS OF DATA SET FROM KAGGLE BELOW QUERIES ARE RESOLVED BY USING PYTHON & LIBRARIES COMMANDS: dala analysis, data clean up, data visualization tasks are completed. 
+COMMANDS USED:-
+import pandas as pd -- To import Pandas library
+* pd.read_csv - To import the CSV file in Jupyter notebook
+* style.hide_index( ) - To hide the index of the dataframe.
+* style.set_caption('Description of the dataframe') - To give a caption to the dataframe.
+* isin( ) - To show all records including particular elements.
+* groupby(‘Col_1’)[‘Col_2’] .sum( )[‘value’] - GroupBy – Two Keys – Apply on Col_2 grouped by Col_1.
+* df[df.Col_1 == 'Element1']['Col_2'] - Filtering - Filter the records of the dataframe wrt to Element1 of Col1 and then showing results of Col2 only.
+* set_index( ‘Col_Name’ ) - To set any column of a DF as an index.
+* add_prefix(‘value_’) - To add prefix to the column name.
+* add_suffix(‘_value’) - To add suffix to the column name.
 * In this project , dala analysis, data clean up and below exploration has been done.
 Q. 1) How will you hide the indexes of the dataframe.
 Q. 2) How can we set the caption / heading on the dataframe.
